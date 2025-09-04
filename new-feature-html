@@ -4,6 +4,8 @@
             <title>feature page</title>
         </head>
         <body>
+            <a href="new-feature2.html">click me</a>
+            <a href="new-feature-html">form page</a>
            <h1>wow! this feature can make you fly</h1>
            <p>but you fit kpain</p> 
         </body>
