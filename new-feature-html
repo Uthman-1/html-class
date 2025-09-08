@@ -4,8 +4,14 @@
             <title>feature page</title>
         </head>
         <body>
-            <a href="new-feature2.html">click me</a>
-            <a href="new-feature-html">form page</a>
+            <a href="school-subjects.html">click me</a>
+    <a href="table.html">form page</a>
+    <a href="richest.html">table</a>
+    <a href="dog.html">dog</a>
+    <a href="new-feature-html">feature 1</a>
+    <a href="new-feature2.html">feature 32</a>\
+    <a href="index.html"> index</a>
+    <a href="zoho.jpg">picture</a>
            <h1>wow! this feature can make you fly</h1>
            <p>but you fit kpain</p> 
         </body>
